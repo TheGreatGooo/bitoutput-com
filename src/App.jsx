@@ -3,7 +3,7 @@ function App() {
     <div style={{
       fontFamily: '-apple-system, BlinkMacSystemFont, sans-serif',
       display: 'flex', justifyContent: 'center', alignItems: 'center',
-      minHeight: '100vh', background: 'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
+      minHeight: '100vh', background: linear-gradient(135deg, #0284c7 0%, #0ea5e9 100%), #4facfe 0%, #00f2fe 100%)',
       color: 'white', textAlign: 'center'
     }}>
       <div>
